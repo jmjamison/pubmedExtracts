@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19911266</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-3289</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>43</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>07</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Administration and policy in mental health</Title>
+                <ISOAbbreviation>Adm Policy Ment Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Future Research on Psychotherapy Practice in Usual Care.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>492-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10488-009-0254-7</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Audrey Burnam</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>RAND Corporation, 1,776 Main Street, PO Box 2138, Santa Monica, CA, 90407-2138, USA. aburnam@rand.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hepner</LastName>
+                    <ForeName>Kimberly A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>RAND Corporation, 1,776 Main Street, PO Box 2138, Santa Monica, CA, 90407-2138, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miranda</LastName>
+                    <ForeName>Jeanne</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Biobehavioral Sciences, UCLA/NPI Health Services Research Center, 10920 Wilshire Boulevard Suite 300, Los Angeles, CA, 90024, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D054711">Introductory Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Adm Policy Ment Health</MedlineTA>
+            <NlmUniqueID>8914574</NlmUniqueID>
+            <ISSNLinking>0894-587X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gen Psychiatry. 2005 Jun;62(6):629-40</RefSource>
+                <PMID Version="1">15939840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2010 May;37(3):254-69</RefSource>
+                <PMID Version="1">19795204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2010 May;37(3):221-9</RefSource>
+                <PMID Version="1">20186569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Jt Comm J Qual Improv. 2001 Feb;27(2):63-80</RefSource>
+                <PMID Version="1">11221012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2010 May;37(3):230-44</RefSource>
+                <PMID Version="1">19902347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Psychol. 2005 Dec;61(12):1467-83</RefSource>
+                <PMID Version="1">15880436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2010 May;37(3):287-300</RefSource>
+                <PMID Version="1">20238155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2000 Jan 12;283(2):212-20</RefSource>
+                <PMID Version="1">10634337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1988 Sep 23-30;260(12):1743-8</RefSource>
+                <PMID Version="1">3045356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2010 May;37(3):279-86</RefSource>
+                <PMID Version="1">19908137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2010 May;37(3):208-20</RefSource>
+                <PMID Version="1">19757021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychiatr Serv. 2002 Oct;53(10):1272-84</RefSource>
+                <PMID Version="1">12364675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2010 May;37(3):270-8</RefSource>
+                <PMID Version="1">19859800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adm Policy Ment Health. 2005 May-Jul;32(5-6):651-63</RefSource>
+                <PMID Version="1">16082800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1995 Apr 5;273(13):1026-31</RefSource>
+                <PMID Version="1">7897786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Child Adolesc Psychiatry. 2008 Oct;47(10):1114-9</RefSource>
+                <PMID Version="1">20566188</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Psychiatr Serv. 2006 Jan;57(1):48-55</RefSource>
+                <PMID Version="1">16399962</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010043" MajorTopicYN="N">Outcome and Process Assessment (Health Care)</DescriptorName>
+                <QualifierName UI="Q000458" MajorTopicYN="Y">organization &amp; administration</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011613" MajorTopicYN="N">Psychotherapy</DescriptorName>
+                <QualifierName UI="Q000458" MajorTopicYN="Y">organization &amp; administration</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058996" MajorTopicYN="N">Quality Improvement</DescriptorName>
+                <QualifierName UI="Q000458" MajorTopicYN="N">organization &amp; administration</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011787" MajorTopicYN="N">Quality of Health Care</DescriptorName>
+                <QualifierName UI="Q000458" MajorTopicYN="Y">organization &amp; administration</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012107" MajorTopicYN="Y">Research Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014481" MajorTopicYN="N">United States</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19911266</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10488-009-0254-7</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10488-009-0254-7</ArticleId>
+            <ArticleId IdType="pmc">PMC4893055</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17383002</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-7757</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>38</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Child abuse &amp; neglect</Title>
+                <ISOAbbreviation>Child Abuse Negl</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Children exposed to methamphetamine use and manufacture.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1872-83</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chiabu.2006.06.009</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0145-2134(07)00049-X</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Messina</LastName>
+                    <ForeName>Nena</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UCLA Integrated Substance Abuse Programs, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeter</LastName>
+                    <ForeName>Kira</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UCLA Integrated Substance Abuse Programs, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marinelli-Casey</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Matrix Institute on Addictions, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>West</LastName>
+                    <ForeName>Kathleen</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>USC Department of Preventive Medicine, Center for Innovation and Research on Veterans and Military Families, First Ladies Initiative, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rawson</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UCLA Integrated Substance Abuse Programs, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>001</GrantID>
+                    <Agency>World Health Organization</Agency>
+                    <Country>International</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 DA019566-01</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 DA019566-02</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Child Abuse Negl</MedlineTA>
+            <NlmUniqueID>7801702</NlmUniqueID>
+            <ISSNLinking>0145-2134</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000697">Central Nervous System Stimulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004785">Environmental Pollutants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>44RAL3456C</RegistryNumber>
+                <NameOfSubstance UI="D008694">Methamphetamine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Emerg Med. 1999 May-Jun;17(3):469-71</RefSource>
+                <PMID Version="1">10338241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pediatr. 2003 Mar;142(3):279-85</RefSource>
+                <PMID Version="1">12640376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pediatr. 1987 Oct;111(4):571-8</RefSource>
+                <PMID Version="1">3655989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Welfare. 2000 Sep-Oct;79(5):614-32</RefSource>
+                <PMID Version="1">11021350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Abuse Negl. 2002 Jun;26(6-7):679-95</RefSource>
+                <PMID Version="1">12201162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dev Behav Pediatr. 2003 Feb;24(1):17-23</RefSource>
+                <PMID Version="1">12584481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 2003 Sep;98(9):1229-37</RefSource>
+                <PMID Version="1">12930210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatrics. 2002 Dec;110(6):1182-92</RefSource>
+                <PMID Version="1">12456917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Welfare. 2001 Mar-Apr;80(2):275-96</RefSource>
+                <PMID Version="1">11291905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Addict Dis. 2002;21(1):5-19</RefSource>
+                <PMID Version="1">11831500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Harm Reduct J. 2004 Apr 20;1(1):5</RefSource>
+                <PMID Version="1">15169566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Child Abuse Negl. 1995 May;19(5):519-30</RefSource>
+                <PMID Version="1">7664133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 2003 Oct;98(10):1463-4</RefSource>
+                <PMID Version="1">14519184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Soc Work. 2004 Jul;49(3):373-81</RefSource>
+                <PMID Version="1">15281692</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Obstet Gynecol Scand. 1981;60(3):253-9</RefSource>
+                <PMID Version="1">7270093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Psychoactive Drugs. 1997 Jan-Mar;29(1):23-42</RefSource>
+                <PMID Version="1">9110264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Addiction. 2005 Apr;100(4):479-88</RefSource>
+                <PMID Version="1">15784062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Psychol Rev. 2002 Sep;22(7):1063-90</RefSource>
+                <PMID Version="1">12238246</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019969" MajorTopicYN="N">Amphetamine-Related Disorders</DescriptorName>
+                <QualifierName UI="Q000523" MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000697" MajorTopicYN="N">Central Nervous System Stimulants</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002649" MajorTopicYN="Y">Child Abuse</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002669" MajorTopicYN="Y">Child Welfare</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004785" MajorTopicYN="N">Environmental Pollutants</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007223" MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008694" MajorTopicYN="N">Methamphetamine</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016487" MajorTopicYN="N">Parenting</DescriptorName>
+                <QualifierName UI="Q000523" MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Child abuse</Keyword>
+            <Keyword MajorTopicYN="N">Child neglect</Keyword>
+            <Keyword MajorTopicYN="N">Drug-endangered children</Keyword>
+            <Keyword MajorTopicYN="N">Methamphetamine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2005</Year>
+                <Month>09</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2006</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17383002</ArticleId>
+            <ArticleId IdType="pii">S0145-2134(07)00049-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chiabu.2006.06.009</ArticleId>
+            <ArticleId IdType="pmc">PMC3029499</ArticleId>
+            <ArticleId IdType="mid">NIHMS243095</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
