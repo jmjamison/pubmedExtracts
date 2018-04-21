@@ -37,5 +37,5 @@ if __name__ == '__main__':
     print(results)
     for i, paper in enumerate(papers['PubmedArticle']): print("%d) %s" % (i+1, paper['MedlineCitation']['Article']['ArticleTitle']))
     # Pretty print the first paper in full
-    #import json
-#print(json.dumps(papers[0], indent=2, separators=(',', ':')))
+    import json
+    print(json.dumps(papers[0], indent=2, separators=(',', ':')))
